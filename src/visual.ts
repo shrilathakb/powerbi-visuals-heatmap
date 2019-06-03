@@ -158,9 +158,9 @@ export class TableHeatMap implements IVisual {
     private static Const0em: string = "0em";
     private static Const071em: string = ".71em";
 
-    private static ConstGridSizeWidthLimit: number = 80;
+    private static ConstGridSizeWidthLimit: number = 8;
     private static ConstShiftLabelFromGrid: number = -6;
-    private static ConstGridHeightWidthRaito: number = 0.5;
+    private static ConstGridHeightWidthRaito: number = 1;
     private static ConstGridMinHeight: number = 16;
     private static ConstGridMinWidth: number = 36;
     private static ConstGridLegendWidthRaito: number = 0.666;
